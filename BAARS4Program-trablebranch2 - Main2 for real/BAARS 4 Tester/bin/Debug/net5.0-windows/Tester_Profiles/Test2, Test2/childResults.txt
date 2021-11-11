@@ -1,0 +1,11 @@
+Name: Test2, Test2  
+Age: 33    Gender: male
+Child results
+
+
+Section 1 Total Score: 19
+Section 1 Symptoms Count: 3
+Section 2 Total Score: 23
+Section 2 Symptoms Count: 4
+Sum of Sections 1-2 Total Score: 42
+Sum of Sections 1-2 Symptoms Count: 7

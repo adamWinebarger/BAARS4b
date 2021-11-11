@@ -1,0 +1,21 @@
+Name: Test2, Test2  
+Age: 33    Gender: male
+Adult results
+
+
+Section Results: 
+Section 1 raw score: 24
+Section 1 symptoms count: 5
+Section 2 raw score: 12
+Section 2 symptoms count: 7
+Section 3 raw score: 9
+Section 3 symptoms count: 2
+Section 4 raw score: 20
+Section 4 symptoms count: 4
+
+
+Sum of raw scores section 1 thru 3: 45
+Section 1 Symptoms count: 5
+Sum  pf sections 2 and 3 symptoms count: 9
+Total ADHD Symptoms count (1-3): 14
+SCT Symptoms Count: 4
